@@ -1,33 +1,30 @@
 <div align="center"> 
   
-    ## Hi there 👋, I'm Ali ✨
+  ## Hi there 👋, I'm Ali 
+  
+  ![](https://komarev.com/ghpvc/?username=lightgrey)
 
- ![](https://komarev.com/ghpvc/?username=lightgrey)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alio-Kh&langs_count=8&theme=react)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alio-Kh&langs_count=8&theme=react)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alio-Kh&show_icons=true&theme=dracula)
 
   ## 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/khyatti-ali/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/khyatti-ali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:ali.khyatti0@gmail.com/">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:ali.khyatti0@gmail.com/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
   <!---
   Alio-Kh/Alio-Kh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
   --->
-
 </div>
 
 ### 👨‍💻 I have already worked with the following technologies !
-<details>
+<details open>
    <summary> 
     Languages
   </summary>
@@ -36,13 +33,12 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </details>
 
-<details>
+<details open>
    <summary> 
     Frameworks
   </summary>
@@ -53,7 +49,7 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </details>
 
-<details>
+<details open>
   <summary> 
     Databases
   </summary>
@@ -65,7 +61,7 @@
 </details>
 
 
-<details>
+<details open>
   <summary> 
     Blockchain
   </summary>
@@ -81,7 +77,7 @@
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/> 
 </details>
 
-<details>
+<details open>
   <summary> 
     Others
   </summary>
