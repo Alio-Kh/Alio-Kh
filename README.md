@@ -1,10 +1,8 @@
 <div align="center"> 
-    ![](https://komarev.com/ghpvc/?username=Alio-Kh&color=&color=yellow)
   
     ## Hi there 👋, I'm Ali ✨
 
  ![](https://komarev.com/ghpvc/?username=lightgrey)
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alio-Kh&langs_count=8&theme=react)
