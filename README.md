@@ -8,8 +8,10 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alio-Kh&langs_count=8&theme=react)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alio-Kh&show_icons=true&theme=dracula)
-  --->
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alio-Kh&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+    --->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alio-Kh&layout=compact&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alio-Kh&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
